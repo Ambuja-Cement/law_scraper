@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Law Scrapper</h1>
+<h1 align="center" id="title">Law Scraper</h1>
 
 <p id="description" align="center">Python script to scrape download and reorganize all of the ACTS in Indian Law.</p>
 
